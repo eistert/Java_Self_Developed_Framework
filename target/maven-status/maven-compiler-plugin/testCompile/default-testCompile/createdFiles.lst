@@ -1,0 +1,10 @@
+org/simpleframework/core/BeanContainerTest.class
+org/simpleframework/aop/AspectWeaverTest.class
+org/simpleframework/aop/AspectListExecutorTest.class
+org/simpleframework/aop/mock/Mock4.class
+org/simpleframework/aop/mock/Mock2.class
+org/simpleframework/aop/mock/Mock1.class
+org/simpleframework/inject/DependencyInjectorTest.class
+org/simpleframework/util/ClassUtilTest.class
+org/simpleframework/aop/mock/Mock3.class
+org/simpleframework/aop/mock/Mock5.class
